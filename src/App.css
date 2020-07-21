@@ -1,0 +1,15 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+link{
+    text-decoration: none;
+    text-emphasis: none;
+}
+a{
+    text-emphasis: none;
+    text-decoration: none;
+    color: inherit;
+}
